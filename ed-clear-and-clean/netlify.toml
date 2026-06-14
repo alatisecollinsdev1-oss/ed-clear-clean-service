@@ -1,0 +1,19 @@
+[[redirects]]
+  from = "/about"
+  to = "/about.html"
+  status = 200
+
+[[redirects]]
+  from = "/cleaning-services"
+  to = "/cleaning-services.html"
+  status = 200
+
+[[redirects]]
+  from = "/waste-services"
+  to = "/waste-services.html"
+  status = 200
+
+[[redirects]]
+  from = "/quote"
+  to = "/quote.html"
+  status = 200
